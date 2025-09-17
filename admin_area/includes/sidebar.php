@@ -164,29 +164,6 @@ else {
 
 </li><!-- Products li Ends -->
 
-<li><!-- Bundles Li Starts --->
-
-<a href="#" data-toggle="collapse" data-target="#bundles">
-
-<i class="fa fa-fw fa-edit"></i> Bundles
-
-<i class="fa fa-fw fa-caret-down"></i>
-
-</a>
-
-<ul id="bundles" class="collapse">
-
-<li>
-<a href="index.php?insert_bundle"> Insert Bundle </a>
-</li>
-
-<li>
-<a href="index.php?view_bundles"> View Bundles </a>
-</li>
-
-</ul>
-
-</li><!-- Bundles Li Ends --->
 
 <li><!-- relations li Starts -->
 

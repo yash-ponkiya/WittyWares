@@ -10,6 +10,9 @@
 						<a href="#" class="footer-nav__link">The brand</a>
 					</li>
 					<li class="footer-nav__item">
+						<a href="#" class="footer-nav__link">Local stores</a>
+					</li>
+					<li class="footer-nav__item">
 						<a href="#" class="footer-nav__link">Customer service</a>
 					</li>
 					<li class="footer-nav__item">
